@@ -1,2 +1,2 @@
-# -SerhiiTkachenko.github.io
+# SerhiiTkachenko.github.io
 Base Repository
