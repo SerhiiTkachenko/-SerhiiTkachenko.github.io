@@ -23,8 +23,13 @@ body {
     text-align: center;
 }
 
+h1, h3, h4 {
+    font-family: cursive;
+}
 h2 {
     margin-bottom: 20px;
+    font-family:  inherit;
+    font-weight: lighter;
 }
 
 h3 {
@@ -35,7 +40,6 @@ h4 {
     color: rgb(163, 14, 14);
     margin-bottom: 3px;
 }
-
 
 hr {
     border-bottom: 3px solid black;
